@@ -1,6 +1,6 @@
 # ocr_diploma
-*Chạy trên python 3.7 và cài môi trường bằng cách pip install -r requirements.txt   
-usage: ocr.py [-h] -d DIR_IMAGES [-w WEIGHTS] [-o OUTPUT]  
+-Chạy trên python 3.7 và cài môi trường bằng cách pip install -r requirements.txt   
+-usage: ocr.py [-h] -d DIR_IMAGES [-w WEIGHTS] [-o OUTPUT]  
 optional arguments:  
 -h, --help  
 show this help message and exit  
