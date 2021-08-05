@@ -13,3 +13,4 @@ Dường dẫn tới thư mục cha chứa thư mục đầu ra của các file 
 Các trường dữ liệu sẽ được lưu theo tên ảnh nên có thể tùy chọn cách đặt tên  
 Như trong dữ liệu test là:  
 fullname(họ và tên)|dateofbirth(ngày,tháng,năm sinh)|placeofbirth(nơi sinh)|gender(giới tính)|ethnicgroup(dân tộc)|school(học sinh trường)|examterm(khóa thi)|examboard(hội đồng thi)|typeofgraduation(tốt nghiệp loại)|typeoftraining(hình thức đào tạo)|date(ngày và nơi cấp bằng)|serialno(số hiệu)|regno(số vào sổ cấp bằng)  
+link model: https://drive.google.com/drive/folders/11B4IxLX6DGeVr3edTeZf3kDKyGGz3niR?usp=sharing  
